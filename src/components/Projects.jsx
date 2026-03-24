@@ -10,16 +10,16 @@ const projects = [
   {
     id: "01",
     title: "Reherse-AI_Interview_Trainer",
-    description: "Web application for compressing and decompressing files with advanced algorithms and user-friendly...",
+    description: "Reherse is an intelligent web application that helps users practice and improve their job interview skills through AI-generated questions, speech-to-text analysis, webcam-based behavior analysis, and detailed performance feedback.",
     tags: ["ReactJS", "NodeJS", "MongoDB", "Tailwind CSS", "JavaScript", "Redux","Cloudinary"],
-    image: Reherse, // Replace with your actual screenshot
+    image: Reherse, 
     liveLink: "https://reherse-ai-interview-trainer.vercel.app",
     codeLink: "https://github.com/Mohit1423/Reherse-AI_Interview_Trainer",
   },
   {
     id: "02",
     title: "JobPortal",
-    description: "A modern, full-featured video sharing platform with real-time streaming and social features.",
+    description: "A full-stack job portal with recruiter and job-seeker roles, enabling end-to-end job posting and application flow while demonstrating authentication, state management, and client-server communication",
     tags: ["ReactJS", "Express.js", "MongoDB", "JWT", "Tailwind CSS", "NodeJS","CookieJS","Cloudinary"],
     image: JobPortal,
     liveLink: "https://job-portal-six-amber.vercel.app",
@@ -28,7 +28,7 @@ const projects = [
   {
     id: "03",
     title: "Compression-Decompression",
-    description: "Online store for buying and selling products with authentication and payment integration.",
+    description: "Web application for compressing and decompressing files with advanced algorithms and user-friendly...",
     tags: ["React", "Tailwind CSS", "NodeJS", "Express.js", "MongoDB", "Tailwind CSS","RLE and Huffmann"],
     image: CompressDecompress,
     liveLink: "https://compression-decompression.vercel.app",
@@ -37,7 +37,7 @@ const projects = [
   {
     id: "04",
     title: "Mail Tracking Extension",
-    description: "A comprehensive SaaS solution for managing multiple e-commerce stores through a single dashboard.",
+    description: "Easily track when your emails are opened using a simple Firefox extension and your own private tracking server. Works seamlessly with Gmail and Yahoo Mail, with a clean dashboard and real-time updates.",
     tags: ["Firefox Extension", "HTML", "CSS", "JavaScript","NodeJS"],
     image: FirefoxExtension,
     liveLink: "https://github.com/infinitin007/Mail-Tracker-Extension",
