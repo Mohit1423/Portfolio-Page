@@ -40,7 +40,7 @@ export default function Navbar({scrollToSection, HeroRef, AboutMeRef, SkillsRef,
           {/* Mobile Icon */}
           <div className="md:hidden">
             <button onClick={() => setOpen(!open)}>
-              {open ? <X size={24} /> : <Menu size={24} />}
+              {open ? <X color="white" size={24} /> : <Menu color="white" size={24} />}
             </button>
           </div>
         </div>
