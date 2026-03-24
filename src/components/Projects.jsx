@@ -28,7 +28,7 @@ const projects = [
   {
     id: "03",
     title: "Compression-Decompression",
-    description: "Web application for compressing and decompressing files with advanced algorithms and user-friendly...",
+    description: "Web application for compressing and decompressing files with advanced algorithms and user-friendly.",
     tags: ["React", "Tailwind CSS", "NodeJS", "Express.js", "MongoDB", "Tailwind CSS","RLE and Huffmann"],
     image: CompressDecompress,
     liveLink: "https://compression-decompression.vercel.app",
